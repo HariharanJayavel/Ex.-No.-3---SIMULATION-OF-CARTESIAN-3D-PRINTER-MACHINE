@@ -60,7 +60,7 @@
 
 
 ### Name: HARIHARAN J
-### Register Number: 23011967
+### Register Number: 212223240047
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
